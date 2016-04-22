@@ -1,5 +1,5 @@
 {
-  "name": "bayes",
+  "name": "bayes_fixed",
   "description": "Naive Bayes Classifier for node.js",
   "version": "0.0.5",
   "author": "Tolga Tezel",
